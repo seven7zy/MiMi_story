@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="market" />
+        <module name="untitled" />
+        <module name="MiMi-ssm" />
+        <module name="tmallDemo" />
+        <module name="xiaofei" />
+        <module name="Student" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo111111" target="1.8" />
+      <module name="ForestBlog" target="1.8" />
+      <module name="hosp" target="1.8" />
+      <module name="jiekou" target="8" />
+      <module name="JieKou_" target="8" />
+      <module name="market" target="1.8" />
+      <module name="MiMi-ssm" target="1.8" />
+      <module name="MiMi-ssm_1" target="1.5" />
+      <module name="Parent" target="8" />
+      <module name="redis_dengLuYanZheng" target="1.8" />
+      <module name="redis_text01" target="8" />
+      <module name="spring_boot_thy" target="11" />
+      <module name="store" target="1.8" />
+      <module name="Student" target="1.8" />
+      <module name="text" target="8" />
+      <module name="text_01" target="1.8" />
+      <module name="tigong" target="8" />
+      <module name="tmallDemo" target="1.7" />
+      <module name="untitled" target="8" />
+      <module name="xiaofei" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Student" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="redis_dengLuYanZheng" options="-parameters" />
+      <module name="spring_boot_thy" options="-parameters" />
+      <module name="store" options="-parameters" />
+      <module name="text_01" options="-parameters" />
+      <module name="tigong" options="-parameters" />
+      <module name="xiaofei" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Seckill:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Seckill_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Seckill" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib3" />
+          <element id="library" level="project" name="lib4" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Seckill/web/Web" />
+      <element id="javaee-facet-resources" facet="Seckill/web/Web2" />
+      <element id="javaee-facet-resources" facet="Seckill/web/Web3" />
+      <element id="javaee-facet-resources" facet="Seckill/web/Web4" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MiMi-ssm_1:war">
+    <output-path>$PROJECT_DIR$/../MiMi-ssm_1/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MiMi-ssm_1</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MiMi-ssm_1-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MiMi-ssm_1:war exploded" />
+    </root>
+  </artifact>
+</component>

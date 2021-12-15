@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../demo111111" />
+    <file type="web" url="file://$PROJECT_DIR$/../ForestBlog" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../MiMi-ssm_1" />
+    <file type="web" url="file://$PROJECT_DIR$/../mytmall-master" />
+    <file type="web" url="file://D:/桌面/资料/hosp" />
+    <file type="web" url="file://D:/桌面/资料/market" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringBoot_text/text/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringBoot_text/tigong/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringBoot_text/xiaofei/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/text_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/../mytmall-master/pom.xml" />
+        <option value="D:/桌面/资料/market/pom.xml" />
+        <option value="$PROJECT_DIR$/../Student/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="jdk8" project-jdk-type="JavaSDK" />
+</project>

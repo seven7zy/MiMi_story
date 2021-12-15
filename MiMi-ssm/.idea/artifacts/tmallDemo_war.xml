@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tmallDemo:war">
+    <output-path>$PROJECT_DIR$/../mytmall-master/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>tmallDemo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="tmallDemo.war">
+      <element id="artifact" artifact-name="tmallDemo:war exploded" />
+    </root>
+  </artifact>
+</component>

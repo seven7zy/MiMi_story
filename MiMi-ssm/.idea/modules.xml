@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MiMi-ssm.iml" filepath="$PROJECT_DIR$/MiMi-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Student/Student.iml" filepath="$PROJECT_DIR$/../Student/Student.iml" />
+      <module fileurl="file://D:/桌面/资料/ForestBlog-master/ForestBlog/src/main/main.iml" filepath="D:/桌面/资料/ForestBlog-master/ForestBlog/src/main/main.iml" />
+      <module fileurl="file://D:/桌面/资料/market/market.iml" filepath="D:/桌面/资料/market/market.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytmall-master/tmallDemo.iml" filepath="$PROJECT_DIR$/../mytmall-master/tmallDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/untitled.iml" filepath="$PROJECT_DIR$/../untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringBoot_text/xiaofei/xiaofei.iml" filepath="$PROJECT_DIR$/../SpringBoot_text/xiaofei/xiaofei.iml" />
+    </modules>
+  </component>
+</project>

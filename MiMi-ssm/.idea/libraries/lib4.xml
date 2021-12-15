@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/commons-compiler-2.7.8.jar!/" />
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/jedis-2.9.0.jar!/" />
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/janino-2.7.8.jar!/" />
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/commons-pool2-2.4.2.jar!/" />
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/logback-core-1.1.8.jar!/" />
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/logback-classic-1.1.8.jar!/" />
+      <root url="jar://D:/桌面/资料/文件/redis/代码/Seckill/out/artifacts/web_war_exploded/WEB-INF/lib/logback-access-1.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
